@@ -1,10 +1,6 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=5000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&width=900&height=150&lines=%F0%9F%91%8B+Hey%2C+I'm+Alan;Building+at+the+intersection+of+AI;Product+Management+%7C+Technical+BA" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=5000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&width=1000&height=150&lines=%F0%9F%91%8B+Hey%2C+I'm+Alan;Building+at+the+intersection+of+AI;Product+Management+%7C+Technical+BA" alt="Typing SVG" />
 </h1>
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=trithanhalan&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats" /></a>
-</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/trithanhalan/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
@@ -14,13 +10,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=trithanhalan&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=trithanhalan&repo=requirements-architect&theme=tokyonight&hide_border=true" alt="Pinned Repo"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=trithanhalan&theme=tokyonight&hide_border=true" width="48%" alt="Streak Stats"/>
 </p>
 
 ---
@@ -158,11 +148,6 @@ motto: "Execution > Planning"
 </p>
 
 ## `$ cat stats.sh`
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=trithanhalan&show_icons=true&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=trithanhalan&theme=tokyonight&hide_border=true" width="48%" alt="Streak Stats"/>
-</p>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=trithanhalan&theme=tokyodark&hide_border=true&area=true" width="100%" alt="Activity Graph"/>
