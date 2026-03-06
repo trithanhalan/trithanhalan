@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=%F0%9F%91%8B+Hey%2C+I'm+Alan;Building+at+the+intersection+of+AI+%7C+Business+%7C+Blockchain" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=5000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&width=800&height=120&lines=%F0%9F%91%8B+Hey%2C+I'm+Alan;Building+at+the+intersection+of+AI;Business+%7C+Blockchain" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -146,8 +146,8 @@ motto: "Execution > Planning"
 ## `$ cat stats.sh`
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=trithanhalan&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9" width="49%" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=trithanhalan&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=c9d1d9" width="49%" alt="Streak Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=trithanhalan&show_icons=true&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=trithanhalan&theme=tokyonight&hide_border=true" width="48%" alt="Streak Stats"/>
 </p>
 
 ## `$ cat contribution_snake.yml`
