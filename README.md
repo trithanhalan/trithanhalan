@@ -1,12 +1,26 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=5000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&width=900&height=150&lines=%F0%9F%91%8B+Hey%2C+I'm+Alan;Building+at+the+intersection+of+AI;Business+%7C+Blockchain" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=5000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&width=900&height=150&lines=%F0%9F%91%8B+Hey%2C+I'm+Alan;Building+at+the+intersection+of+AI;Product+Management+%7C+Technical+BA" alt="Typing SVG" />
 </h1>
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=trithanhalan&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats" /></a>
+</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/trithanhalan/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:trithanhalan96@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="https://github.com/trithanhalan"><img src="https://img.shields.io/badge/Portfolio-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
   <img src="https://komarev.com/ghpvc/?username=trithanhalan&style=for-the-badge&color=58A6FF" alt="Profile Views"/>
+</p>
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=trithanhalan&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=trithanhalan&repo=requirements-architect&theme=tokyonight&hide_border=true" alt="Pinned Repo"/>
 </p>
 
 ---
@@ -146,8 +160,16 @@ motto: "Execution > Planning"
 ## `$ cat stats.sh`
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=trithanhalan&show_icons=true&theme=transparent&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9&hide_border=true" width="48%" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=trithanhalan&show_icons=true&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Stats"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=trithanhalan&theme=tokyonight&hide_border=true" width="48%" alt="Streak Stats"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=trithanhalan&theme=tokyodark&hide_border=true&area=true" width="100%" alt="Activity Graph"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=trithanhalan&theme=tokyonight&no-bg=true&no-frame=true&column=7" width="100%" alt="GitHub Trophies"/>
 </p>
 
 ## `$ cat contribution_snake.yml`
