@@ -11,6 +11,9 @@
 
 ---
 
+## Let's Build 🚀
+**[Book a 15-min AI Strategy Call](https://www.google.com/search?q=YOUR_RECLAIM_LINK_HERE)**
+
 ## `$ whoami`
 
 ```yaml
@@ -32,7 +35,12 @@ motto: "Execution > Planning"
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,js,ts,solidity,html,css&theme=dark" alt="Languages" /><br/>
   <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,flask,docker,git&theme=dark" alt="Frameworks & Tools" /><br/>
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb,linux,vscode,github,figma&theme=dark" alt="Infrastructure" />
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,linux,vscode,github,figma&theme=dark" alt="Infrastructure" /><br/><br/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Bolt.new-FFCC00?style=for-the-badge&logo=lightning&logoColor=black" alt="Bolt" />
+  <img src="https://img.shields.io/badge/MCP_Servers-412991?style=for-the-badge&logo=server&logoColor=white" alt="MCP" />
+  <img src="https://img.shields.io/badge/Emergent-0055FF?style=for-the-badge&logo=database&logoColor=white" alt="Emergent" />
+  <img src="https://img.shields.io/badge/Pica-FF4B4B?style=for-the-badge&logo=api&logoColor=white" alt="Pica" />
 </p>
 
 ## `$ ls projects/`
