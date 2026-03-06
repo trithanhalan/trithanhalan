@@ -12,7 +12,7 @@
 ---
 
 ## Let's Build 🚀
-**[Book a 15-min AI Strategy Call](https://www.google.com/search?q=YOUR_RECLAIM_LINK_HERE)**
+**[Book a 15-min AI Strategy Call](https://calendly.com/)** *(Update with your actual Calendly/Reclaim link)*
 
 ## `$ whoami`
 
@@ -33,37 +33,36 @@ motto: "Execution > Planning"
 ## `$ cat tech_stack.txt`
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,ts,solidity,html,css&theme=dark" alt="Languages" /><br/>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,flask,docker,git&theme=dark" alt="Frameworks & Tools" /><br/>
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb,linux,vscode,github,figma&theme=dark" alt="Infrastructure" /><br/><br/>
+  <img src="https://skillicons.dev/icons?i=python,js,ts,solidity,html,css" alt="Languages" /><br/>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,flask,docker,git" alt="Frameworks & Tools" /><br/>
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,linux,vscode,github,figma" alt="Infrastructure" /><br/><br/>
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
   <img src="https://img.shields.io/badge/Bolt.new-FFCC00?style=for-the-badge&logo=lightning&logoColor=black" alt="Bolt" />
   <img src="https://img.shields.io/badge/MCP_Servers-412991?style=for-the-badge&logo=server&logoColor=white" alt="MCP" />
   <img src="https://img.shields.io/badge/Emergent-0055FF?style=for-the-badge&logo=database&logoColor=white" alt="Emergent" />
-  <img src="https://img.shields.io/badge/Pica-FF4B4B?style=for-the-badge&logo=api&logoColor=white" alt="Pica" />
 </p>
 
 ## `$ ls projects/`
 
 <table>
   <tr>
-    <td width="50%">
-      <h3 align="center">🏗️ Requirements Architect</h3>
-      <p align="center">
-        AI-native BA tool that transforms stakeholder transcripts into structured technical specs with user stories, edge cases, and developer critique.
+    <td width="50%" align="center">
+      <h3><a href="https://github.com/trithanhalan/defi-ai-sentinel">🛡️ DeFi AI Sentinel</a></h3>
+      <p>
+        Enterprise-grade Web3 AI platform evaluating smart contract risk, whale movements, and analyzing DAO governance via LLMs.
       </p>
-      <p align="center">
+      <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Web3-F16822?style=flat-square&logo=web3.js&logoColor=white"/>
         <img src="https://img.shields.io/badge/AI-412991?style=flat-square&logo=openai&logoColor=white"/>
       </p>
     </td>
-    <td width="50%">
-      <h3 align="center">🤖 AI Scrum Master</h3>
-      <p align="center">
-        Intelligent Scrum assistant that automates sprint ceremonies, generates retrospective insights, and tracks velocity metrics.
+    <td width="50%" align="center">
+      <h3><a href="https://github.com/trithanhalan/requirements-architect">🏗️ Requirements Architect</a></h3>
+      <p>
+        AI-native BA tool that transforms stakeholder transcripts into structured technical specs with user stories and edge cases.
       </p>
-      <p align="center">
+      <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
         <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
         <img src="https://img.shields.io/badge/LLM-412991?style=flat-square&logo=openai&logoColor=white"/>
@@ -71,26 +70,26 @@ motto: "Execution > Planning"
     </td>
   </tr>
   <tr>
-    <td width="50%">
-      <h3 align="center">👁️ Object Detection Pipeline</h3>
-      <p align="center">
-        Computer vision pipeline for real-time object detection using YOLO architecture, trained on custom datasets.
+    <td width="50%" align="center">
+      <h3><a href="https://github.com/trithanhalan/CareerMind-AI">🧠 CareerMind AI</a></h3>
+      <p>
+        An intelligent career coaching platform providing automated mock interviews, resume analysis, and strategic roadmap generation.
       </p>
-      <p align="center">
+      <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-        <img src="https://img.shields.io/badge/YOLO-00FFFF?style=flat-square&logo=yolo&logoColor=black"/>
-        <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
+        <img src="https://img.shields.io/badge/LangChain-121212?style=flat-square&logo=langchain&logoColor=white"/>
       </p>
     </td>
-    <td width="50%">
-      <h3 align="center">⛓️ PoW Blockchain</h3>
-      <p align="center">
-        Proof-of-Work blockchain implementation from scratch — mining, validation, consensus, and peer-to-peer networking.
+    <td width="50%" align="center">
+      <h3><a href="https://github.com/trithanhalan/AI-Trainer-for-Poker-based-on-Probability">♠️ AI Poker Trainer</a></h3>
+      <p>
+        Probability-driven poker engine calculating GTO (Game Theory Optimal) decisions and pot odds in real-time.
       </p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Blockchain-121D33?style=flat-square&logo=bitcoin&logoColor=white"/>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Math-000000?style=flat-square"/>
       </p>
     </td>
   </tr>
