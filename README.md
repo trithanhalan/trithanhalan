@@ -11,6 +11,18 @@
 
 ---
 
+## The Journey 🛤️
+
+For 5+ years, I operated as a **Senior Agile Business Analyst**, bridging the gap between non-technical stakeholders and engineering teams to deliver enterprise software. I wrote the user stories, managed the cross-functional communication, and ensured product market fit.
+
+But I realized that **the future of product management is deeply technical and agentic.**
+
+I didn't just want to write requirements; I wanted to build the systems that automate the entire software development lifecycle. I went back to school for Applied AI and Blockchain Development, transforming myself from a traditional Business Analyst into a **Hybrid Technical AI Product Manager / Operator.** 
+
+My portfolio is a reflection of this transition. I build **multi-agent architectures, RAG pipelines, and decentralized systems** that solve the exact enterprise inefficiencies I used to manage manually.
+
+---
+
 ## Let's Build 🚀
 **[Book a 15-min AI Strategy Call](https://calendly.com/)** *(Update with your actual Calendly/Reclaim link)*
 
@@ -19,30 +31,20 @@
 ```yaml
 name: Tri Thanh Alan
 location: Toronto, Canada 🇨🇦
-background: Senior Business Analyst (5+ yrs Agile & Stakeholder Management)
+background: Senior Business Analyst -> Hybrid AI Product Manager
 education:
   - Applied AI — George Brown College
   - Blockchain Development — York University
 current_focus:
-  - AI-powered tooling & automation
-  - Technical sales & business development
-  - Smart contract development
+  - Agentic Workflows & Multi-Agent Systems
+  - Technical sales & product architecture
+  - DeFi & Smart Contract risk analysis
 motto: "Execution > Planning"
 ```
 
-## `$ cat tech_stack.txt`
+## `$ ls projects/flagship_ai_products/`
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,ts,solidity,html,css" alt="Languages" /><br/>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,flask,docker,git" alt="Frameworks & Tools" /><br/>
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb,linux,vscode,github,figma" alt="Infrastructure" /><br/><br/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/Bolt.new-FFCC00?style=for-the-badge&logo=lightning&logoColor=black" alt="Bolt" />
-  <img src="https://img.shields.io/badge/MCP_Servers-412991?style=for-the-badge&logo=server&logoColor=white" alt="MCP" />
-  <img src="https://img.shields.io/badge/Emergent-0055FF?style=for-the-badge&logo=database&logoColor=white" alt="Emergent" />
-</p>
-
-## `$ ls projects/`
+*The culmination of my transition—Enterprise AI SaaS tools solving real product management problems.*
 
 <table>
   <tr>
@@ -95,15 +97,57 @@ motto: "Execution > Planning"
   </tr>
 </table>
 
+## `$ ls projects/machine_learning_and_blockchain/`
+
+*The technical foundation—Deep learning pipelines, CV models, and raw blockchain engineering.*
+
+<table>
+  <tr>
+    <td width="50%" align="center">
+      <h3><a href="https://github.com/trithanhalan/document-translation">📝 LinguaFlow AI</a></h3>
+      <p>
+        Production-grade AI document translation framework with OCR, glossary enforcement, and a post-edit UI.
+      </p>
+    </td>
+    <td width="50%" align="center">
+      <h3><a href="https://github.com/trithanhalan/pow-blockchain">⛓️ PoW Blockchain Protocol</a></h3>
+      <p>
+        Proof-of-Work blockchain built from scratch in Node.js (Mining, Consensus, P2P network).
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <h3><a href="https://github.com/trithanhalan/aasd4014-object-detection">👁️ Faster R-CNN Object Detection</a></h3>
+      <p>
+        CV pipeline using ResNet-50 FPN to detect and classify complex object relationships in real-time.
+      </p>
+    </td>
+    <td width="50%" align="center">
+      <h3><a href="https://github.com/trithanhalan/MNIST_Digit_Predictor">🔢 Neural Network Architecture Comparison</a></h3>
+      <p>
+        Interactive Streamlit MLP vs CNN comparison predicting handwritten digits on the fly.
+      </p>
+    </td>
+  </tr>
+</table>
+
+## `$ cat tech_stack.txt`
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,ts,solidity,html,css" alt="Languages" /><br/>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,flask,docker,git" alt="Frameworks & Tools" /><br/>
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,linux,vscode,github,figma" alt="Infrastructure" /><br/><br/>
+  <img src="https://img.shields.io/badge/Machine_Learning-3776AB?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="ML" />
+  <img src="https://img.shields.io/badge/Large_Language_Models-000000?style=for-the-badge&logo=openai&logoColor=white" alt="LLMs" />
+  <img src="https://img.shields.io/badge/Ethereum_EVM-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white" alt="EVM" />
+</p>
+
 ## `$ cat stats.sh`
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=trithanhalan&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9" width="49%" alt="GitHub Stats"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=trithanhalan&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=c9d1d9" width="49%" alt="Streak Stats"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=trithanhalan&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9&langs_count=8" width="40%" alt="Top Languages"/>
 </p>
 
 ## `$ cat contribution_snake.yml`
