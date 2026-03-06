@@ -118,7 +118,7 @@ motto: "Execution > Planning"
   </tr>
   <tr>
     <td width="50%" align="center">
-      <h3><a href="https://github.com/trithanhalan/aasd4014-object-detection">👁️ Faster R-CNN Object Detection</a></h3>
+      <h3><a href="https://github.com/trithanhalan/faster-rcnn-object-detection">👁️ Faster R-CNN Object Detection</a></h3>
       <p>
         CV pipeline using ResNet-50 FPN to detect and classify complex object relationships in real-time.
       </p>
