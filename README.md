@@ -76,21 +76,7 @@ motto: "Execution > Planning"
     </td>
   </tr>
   <tr>
-    <td width="33%" align="center">
-      <h3><a href="https://github.com/trithanhalan/AgroLedger">🌾 AgroLedger</a></h3>
-      <p>
-        Decentralized supply chain monitoring system for the agricultural sector, ensuring transparency via immutable ledgers.
-      </p>
-      <p>
-        <a href="https://agroledger.streamlit.app/"><img src="https://static.streamlit.io/badges/streamlit_badge_black_white.svg"/></a>
-      </p>
-      <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Blockchain-F16822?style=flat-square&logo=ethereum&logoColor=white"/>
-      </p>
-    </td>
-    <td width="33%" align="center">
+    <td width="50%" align="center">
       <h3><a href="https://github.com/trithanhalan/CareerMind-AI">🧠 CareerMind AI</a></h3>
       <p>
         An intelligent career coaching platform providing automated mock interviews, resume analysis, and strategic roadmap generation.
@@ -104,7 +90,7 @@ motto: "Execution > Planning"
         <img src="https://img.shields.io/badge/LangChain-121212?style=flat-square&logo=langchain&logoColor=white"/>
       </p>
     </td>
-    <td width="33%" align="center">
+    <td width="50%" align="center">
       <h3><a href="https://github.com/trithanhalan/AI-Trainer-for-Poker-based-on-Probability">♠️ AI Poker Trainer</a></h3>
       <p>
         Probability-driven poker engine calculating GTO (Game Theory Optimal) decisions and pot odds in real-time.
