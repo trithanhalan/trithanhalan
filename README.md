@@ -82,6 +82,9 @@ motto: "Execution > Planning"
         An intelligent career coaching platform providing automated mock interviews, resume analysis, and strategic roadmap generation.
       </p>
       <p>
+        <a href="https://career-mind-ai.streamlit.app/"><img src="https://static.streamlit.io/badges/streamlit_badge_black_white.svg"/></a>
+      </p>
+      <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
         <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
         <img src="https://img.shields.io/badge/LangChain-121212?style=flat-square&logo=langchain&logoColor=white"/>
@@ -91,6 +94,9 @@ motto: "Execution > Planning"
       <h3><a href="https://github.com/trithanhalan/AI-Trainer-for-Poker-based-on-Probability">♠️ AI Poker Trainer</a></h3>
       <p>
         Probability-driven poker engine calculating GTO (Game Theory Optimal) decisions and pot odds in real-time.
+      </p>
+      <p>
+        <a href="https://ai-trainer-for-poker-based-on-probability.streamlit.app/"><img src="https://static.streamlit.io/badges/streamlit_badge_black_white.svg"/></a>
       </p>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
