@@ -28,7 +28,7 @@ My portfolio is a reflection of this transition. I build **multi-agent architect
 ---
 
 ## Let's Build 🚀
-**[Book a 15-min AI Strategy Call](https://calendly.com/)** *(Update with your actual Calendly/Reclaim link)*
+**[Book a 15-min AI Strategy Call](#)**
 
 ## `$ whoami`
 
