@@ -17,7 +17,7 @@
 
 ## The Journey 🛤️
 
-For 5+ years, I operated as a **Senior Agile Business Analyst**, bridging the gap between non-technical stakeholders and engineering teams to deliver enterprise software. I wrote the user stories, managed the cross-functional communication, and ensured product market fit.
+For 6+ years, I operated as a **Senior Agile Business Analyst**, bridging the gap between non-technical stakeholders and engineering teams to deliver enterprise software. I wrote the user stories, managed the cross-functional communication, and ensured product market fit.
 
 But I realized that **the future of product management is deeply technical and agentic.**
 
